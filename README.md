@@ -8,4 +8,4 @@ El trabajo se conforma de dos capítulos:
 1. IDENTIFICACIÓN AUTOMÁTICA DE ENFERMEDADES EN FRUTOS DE AGUACATE CON BASE EN MÁQUINAS DE APRENDIZAJE Y DESCRIPTORES CROMÁTICOS
 2. ARQUITECTURAS CNN PARA LA DETECCIÓN Y CLASIFICACIÓN DE ENFERMEDADES EN FRUTOS DE AGUACATE
 
-Para el capítulo 1 se utilizaron algoritmos de <i>Machine learning</i> como ```Random Forest, Support Vector Machine y Multilayer Perceptron```
+Para el capítulo 1 se utilizaron algoritmos de <i>Machine learning</i> como ```Random Forest, Support Vector Machine y Multilayer Perceptron```, para la clasificación de tres clases objetivo correspondiente a imágenes digitales de frutos de aguacate. El conjunto de datos se encuentra en este [enlace](https://www.kaggle.com/datasets/camposfe1/deteccin-de-enfermedades-con-machine-learning)
